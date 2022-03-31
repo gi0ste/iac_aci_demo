@@ -10,7 +10,7 @@
 terraform {
   required_providers {
     aci = {
-      source = "hashicorop/aci"
+      source = "app.terraform.io/CiscoDevNet/aci"
       version = "2.1.0"
     }
   }
